@@ -12,7 +12,7 @@ I am Lankapalli Lakshmi Pavan Kumar, a B.Tech Final Year ECE Student at SR Unive
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pavan2-005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pavan2-005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2-005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pavan2-005&icon=0&color=0)](https://visitcount.itsvg.in)
